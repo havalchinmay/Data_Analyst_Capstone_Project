@@ -3,7 +3,7 @@
 ## Project Overview
 This project, involves an analysis of a developer survey to uncover trends and insights in the tech industry. The analysis covers various aspects such as programming languages, tech market conditions, popular technologies, future demands, salaries, gender representation, and demographics.
 
-## Methodology
+## Content
 - **Data Collection**:
   - Using APIs
   - Web scraping
